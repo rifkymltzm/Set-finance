@@ -11,6 +11,8 @@ djangorestframework-simplejwt = "*"
 django-cors-headers = "*"
 psycopg = "*"
 django-environ = "*"
+celery = "*"
+redis = "*"
 
 [dev-packages]
 
